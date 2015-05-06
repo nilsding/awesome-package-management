@@ -5,7 +5,7 @@ A cool list where you can find a package manager for your favorite language! You
 favorite one isn't here. (Read [CONTRIBUTING.md](http://github.com/schisma/awesome-package-management/blob/master/CONTRIBUTING.md) first)
 
 - Languages
-  - [C/C++](#c-c++)
+  - [C/C++](#cc)
   - [Go](#go)
   - [Haskell](#haskell)
   - [Java](#java)
