@@ -7,6 +7,6 @@ You can also include a short description of the package manager you added.
 
 Try to keep the index sorted alphabetically.
 
-IMPORTANT: _Please mark it if your package manager is __official__ to the language or framework!_
+IMPORTANT: _Please mark it if your package manager is **official** to the language or framework!_
 
 After you made your edits, just submit your PR here and wait for it to be approved!
