@@ -5,6 +5,8 @@ Just add your package manager of choice at the back of the Language section wher
 belongs. If there isn't one, create a new one. Just be sure to add an anchor link to it.
 You can also include a short description of the package manager you added.
 
+Try to keep the index sorted alphabetically.
+
 IMPORTANT: _Please mark it if your package manager is __official__ to the language or framework!_
 
 After you made your edits, just submit your PR here and wait for it to be approved!

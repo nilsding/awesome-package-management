@@ -8,7 +8,7 @@ favorite one isn't here. (Read [CONTRIBUTING.md](http://github.com/schisma/aweso
   - [JavaScript](#javascript)
 - Systems
 
-### Javascript
+### JavaScript
 - [npm](http://npmjs.com) (Offical for: Node.js, io.js, jQuery, gulp, Bower and much more)
 - [Bower](http://bower.io) (For the client-side, has lots of packages)
 - [duo](http://duojs.org) (Front-end; Pull dependencies from GitHub; Source transforms)
