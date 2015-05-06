@@ -30,7 +30,6 @@ favorite one isn't here. (Read [CONTRIBUTING.md](http://github.com/schisma/aweso
 - [Maven](http://maven.apache.org/) (Also a build tool)
 - [Gradle](http://gradle.org/) (Build automation, has its own DSL)
 - [Ivy](http://ant.apache.org/ivy) (Close to Maven, but only manages dependencies)
-
 - [sbt](http://www.scala-sbt.org/) (for Scala) (OFFICIAL)
 
 ### JavaScript
