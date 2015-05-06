@@ -5,8 +5,33 @@ A cool list where you can find a package manager for your favorite language! You
 favorite one isn't here. (Read [CONTRIBUTING.md](http://github.com/schisma/awesome-package-management/blob/master/CONTRIBUTING.md) first)
 
 - Languages
+  - [C/C++](#c-c++)
+  - [Go](#go)
+  - [Haskell](#haskell)
+  - [Java](#java)
   - [JavaScript](#javascript)
+  - [PHP](#php)
+  - [Python](#python)
+  - [Ruby](#ruby)
+  - [Rust](#rust)
 - Systems
+
+### C/C++
+- [BiiCode](https://www.biicode.com/) (File-focused, aiming at other platforms like Arduino)
+- [pacm](http://sourcey.com/pacm/) (Only C++, can be embedded or redistibuted)
+
+### Go
+- [go get](http://golang.org/cmd/go/) (OFFICIAL)
+
+### Haskell
+- [Cabal](http://www.haskell.org/cabal/) (OFFICIAL)
+
+### Java
+- [Maven](http://maven.apache.org/) (Also a build tool)
+- [Gradle](http://gradle.org/) (Build automation, has its own DSL)
+- [Ivy](http://ant.apache.org/ivy) (Close to Maven, but only manages dependencies)
+
+- [sbt](http://www.scala-sbt.org/) (for Scala) (OFFICIAL)
 
 ### JavaScript
 - [npm](http://npmjs.com) (Offical for: Node.js, io.js, jQuery, gulp, Bower and much more)
@@ -16,3 +41,19 @@ favorite one isn't here. (Read [CONTRIBUTING.md](http://github.com/schisma/aweso
 - [Component](https://github.com/componentjs/component) (Modular; Does your whole build cycle for you)
 - [jspm](http://jspm.io/) (Supports all module types by using SystemJS)
 - [spm](http://spmjs.io/) (Also lets you manage and download Styles and Templates)
+- [upt](https://github.com/hyperweb2/upt) (aims to be a universal package manager)
+
+### PHP
+- [Composer](http://getcomposer.org/) (Can be used locally or globally)
+
+### Python
+- [pip](http://www.pip-installer.org/) (OFFICIAL as of Python 2.7.9 and 3.4) (For Python and PyPI)
+- [conda](https://store.continuum.io/cshop/anaconda/) (For Anaconda, a Python distribution)
+- [EasyInstall](http://pypi.python.org/pypi/setuptools) 
+
+### Ruby
+- [RubyGems](http://rubygems.org/) (OFFICIAL)
+- [Bundler](http://bundler.io/) (Uses RubyGems as backend, application-level)
+
+### Rust
+- [Cargo](https://crates.io/) (OFFICIAL)
