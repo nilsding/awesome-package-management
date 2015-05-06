@@ -15,3 +15,4 @@ favorite one isn't here. (Read [CONTRIBUTING.md](http://github.com/schisma/aweso
 - [Browserify](http://browserify.org/) (Use NPM modules on the front-end side)
 - [Component](https://github.com/componentjs/component) (Modular; Does your whole build cycle for you)
 - [jspm](http://jspm.io/) (Supports all module types by using SystemJS)
+- [spm](http://spmjs.io/) (Also lets you manage and download Styles and Templates)
