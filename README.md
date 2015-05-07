@@ -6,6 +6,7 @@ favorite one isn't here. (Read [CONTRIBUTING.md](http://github.com/schisma/aweso
 
 - Languages
   - [C/C++](#cc)
+  - [Common Lisp](#common-lisp)
   - [Go](#go)
   - [Haskell](#haskell)
   - [Java](#java)
@@ -19,6 +20,11 @@ favorite one isn't here. (Read [CONTRIBUTING.md](http://github.com/schisma/aweso
 ### C/C++
 - [BiiCode](https://www.biicode.com/) (File-focused, aiming at other platforms like Arduino)
 - [pacm](http://sourcey.com/pacm/) (Only C++, can be embedded or redistibuted)
+
+### Common Lisp
+
+- [Quicklisp](https://www.quicklisp.org/)
+- [qlot](https://github.com/fukamachi/qlot) (similar to Quicklisp, but does not install globally)
 
 ### Go
 - [go get](http://golang.org/cmd/go/) (OFFICIAL)
