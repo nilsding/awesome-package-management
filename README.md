@@ -16,6 +16,9 @@ favorite one isn't here. (Read [CONTRIBUTING.md](CONTRIBUTING.md) first)
   - [Ruby](#ruby)
   - [Rust](#rust)
 - Systems
+  - [BSD](#bsd)
+  - [GNU/Linux](#gnulinux)
+  - [Windows](#windows)
 
 ## Languages
 
@@ -66,3 +69,9 @@ favorite one isn't here. (Read [CONTRIBUTING.md](CONTRIBUTING.md) first)
 - [Cargo](https://crates.io/) (OFFICIAL)
 
 ## Systems
+
+### BSD
+
+### GNU/Linux
+
+### Windows
