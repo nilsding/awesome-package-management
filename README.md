@@ -17,6 +17,7 @@ favorite one isn't here. (Read [CONTRIBUTING.md](CONTRIBUTING.md) first)
   - [Rust](#rust)
 - Systems
   - [BSD](#bsd)
+    - [OS X](#os-x)
   - [GNU/Linux](#gnulinux)
   - [Windows](#windows)
 
@@ -71,6 +72,11 @@ favorite one isn't here. (Read [CONTRIBUTING.md](CONTRIBUTING.md) first)
 ## Systems
 
 ### BSD
+
+#### OS X
+- [Fink](http://www.finkproject.org/)
+- [Homebrew](http://brew.sh/)
+- [MacPorts](http://www.macports.org/)
 
 ### GNU/Linux
 
