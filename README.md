@@ -75,3 +75,11 @@ favorite one isn't here. (Read [CONTRIBUTING.md](CONTRIBUTING.md) first)
 ### GNU/Linux
 
 ### Windows
+- [OneGet](https://github.com/OneGet/oneget) (OFFICIAL as part of Windows 10)
+- [Chocolatey](https://chocolatey.org/)
+- [Cygwin](https://cygwin.com/)'s package manager
+- [Ninite](https://ninite.com/) (proprietary)
+- [Npackd](https://npackd.appspot.com/)
+- [RuckZuck](http://ruckzuck.tools/)
+- [WAPT](http://dev.tranquil.it/wiki/WAPT_-_apt-get_pour_Windows/en)
+- [wpkg](http://windowspackager.org/documentation/wpkg)
