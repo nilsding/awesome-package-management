@@ -1,8 +1,8 @@
 # awesome-package-management
 > Everyone loves package managers! Here is a list of them.
 
-A cool list where you can find a package manager for your favorite language! You can also open a pull request if your
-favorite one isn't here. (Read [CONTRIBUTING.md](http://github.com/schisma/awesome-package-management/blob/master/CONTRIBUTING.md) first)
+A cool list where you can find a package manager for your favorite language or system! You can also open a pull request if your
+favorite one isn't here. (Read [CONTRIBUTING.md](CONTRIBUTING.md) first)
 
 - Languages
   - [C/C++](#cc)
@@ -16,6 +16,11 @@ favorite one isn't here. (Read [CONTRIBUTING.md](http://github.com/schisma/aweso
   - [Ruby](#ruby)
   - [Rust](#rust)
 - Systems
+  - [BSD](#bsd)
+  - [GNU/Linux](#gnulinux)
+  - [Windows](#windows)
+
+## Languages
 
 ### C/C++
 - [BiiCode](https://www.biicode.com/) (File-focused, aiming at other platforms like Arduino)
@@ -62,3 +67,11 @@ favorite one isn't here. (Read [CONTRIBUTING.md](http://github.com/schisma/aweso
 
 ### Rust
 - [Cargo](https://crates.io/) (OFFICIAL)
+
+## Systems
+
+### BSD
+
+### GNU/Linux
+
+### Windows
