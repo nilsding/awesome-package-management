@@ -17,7 +17,9 @@ favorite one isn't here. (Read [CONTRIBUTING.md](CONTRIBUTING.md) first)
   - [Rust](#rust)
 - Systems
   - [BSD](#bsd)
+    - [FreeBSD/NetBSD/OpenBSD/DragonFly BSD/PC-BSD](#freebsdnetbsdopenbsddragonfly-bsdpc-bsd)
     - [OS X](#os-x)
+    - [PC-BSD](#pc-bsd)
   - [GNU/Linux](#gnulinux)
   - [Windows](#windows)
 
@@ -73,10 +75,17 @@ favorite one isn't here. (Read [CONTRIBUTING.md](CONTRIBUTING.md) first)
 
 ### BSD
 
+#### FreeBSD/NetBSD/OpenBSD/DragonFly BSD/PC-BSD
+- [pkg](https://github.com/freebsd/pkg) (OFFICIAL for Dragonfly BSD, also ported to OS X and Linux)
+- [Ports collection](https://en.wikipedia.org/wiki/Ports_collection)
+
 #### OS X
 - [Fink](http://www.finkproject.org/)
 - [Homebrew](http://brew.sh/)
 - [MacPorts](http://www.macports.org/)
+
+#### PC-BSD
+- Push Button Installer
 
 ### GNU/Linux
 
