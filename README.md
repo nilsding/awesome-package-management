@@ -19,6 +19,20 @@ favorite one isn't here. (Read [CONTRIBUTING.md](CONTRIBUTING.md) first)
   - [BSD](#bsd)
     - [OS X](#os-x)
   - [GNU/Linux](#gnulinux)
+    - [Alpine Linux](#alpine-linux)
+    - [Arch Linux](#arch-linux)
+    - [Debian/Ubuntu/Linux Mint](#debianubuntulinux-mint)
+    - [Gentoo](#gentoo)
+    - [Lunar Linux](#lunar-linux)
+    - [NixOS](#nixos)
+    - [OpenSUSE](#opensuse)
+    - [Puppy Linux](#puppy-linux)
+    - [Red Hat Enterprise Linux/CentOS/Fedora](#red-hat-enterprise-linuxcentosfedora)
+    - [Sabayon](#sabayon)
+    - [Slackware](#slackware)
+    - [SliTaz GNU/Linux](#slitaz-gnulinux)
+    - [Void Linux](#void-linux)
+    - [General](#general)
   - [Windows](#windows)
 
 ## Languages
@@ -79,6 +93,55 @@ favorite one isn't here. (Read [CONTRIBUTING.md](CONTRIBUTING.md) first)
 - [MacPorts](http://www.macports.org/)
 
 ### GNU/Linux
+
+#### Alpine Linux
+- apk (OFFICIAL)
+
+#### Arch Linux
+- pacman (OFFICIAL)
+
+#### Debian/Ubuntu/Linux Mint
+- aptitude (OFFICIAL for debian)
+- apt-get (OFFICIAL for Ubuntu)
+- [snappy](https://developer.ubuntu.com/en/snappy/) (Snappy Ubuntu Core only)
+
+#### Gentoo
+- Portage (OFFICIAL)
+
+#### Lunar Linux
+- lunar (OFFICIAL)
+
+#### NixOS
+- [Nix](http://nixos.org/nix/) (OFFICIAL, also general for GNU/Linux, OS X, BSD)
+
+#### OpenSUSE
+- zypper (OFFICIAL)
+
+#### Puppy Linux
+- Puppy Package Manager (OFFICIAL)
+
+#### Red Hat Enterprise Linux/CentOS/Fedora
+- yum (OFFICIAL for RHEL)
+- DNF (OFFICIAL for Fedora since Version 22)
+
+#### Sabayon
+- equo (OFFICIAL)
+
+#### Slackware
+- pkgtools (OFFICIAL)
+- slackpkg
+
+#### SliTaz GNU/Linux
+- Tazpkg (OFFICIAL)
+
+#### Void Linux
+- xbps (OFFICIAL)
+
+#### General
+- [fpm](https://github.com/jordansissel/fpm)
+- [linuxbrew](http://brew.sh/linuxbrew/) (A fork of Homebrew for Linux)
+- pkcon (Part of [PackageKit](http://www.freedesktop.org/software/PackageKit/))
+- [smart](https://labix.org/smart)
 
 ### Windows
 - [OneGet](https://github.com/OneGet/oneget) (OFFICIAL as part of Windows 10)
