@@ -150,6 +150,7 @@ favorite one isn't here. (Read [CONTRIBUTING.md](CONTRIBUTING.md) first)
 - [fpm](https://github.com/jordansissel/fpm)
 - [linuxbrew](http://brew.sh/linuxbrew/) (A fork of Homebrew for Linux)
 - pkcon (Part of [PackageKit](http://www.freedesktop.org/software/PackageKit/))
+- [pkgin](http://pkgin.net/) (for managing pkgsrc binary packages, OFFICIAL for Minix 3, works on Debian GNU/Linux, Mac OS X, NetBSD, DragonFly BSD, Opensolaris/SunOS)
 - [smart](https://labix.org/smart)
 
 ### Windows
