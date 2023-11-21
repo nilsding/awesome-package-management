@@ -5,6 +5,7 @@ A cool list where you can find a package manager for your favorite language or s
 favorite one isn't here. (Read [CONTRIBUTING.md](CONTRIBUTING.md) first)
 
 - Languages
+  - [Ada](#ada)
   - [C/C++](#cc)
   - [Common Lisp](#common-lisp)
   - [Go](#go)
@@ -39,9 +40,12 @@ favorite one isn't here. (Read [CONTRIBUTING.md](CONTRIBUTING.md) first)
 
 ## Languages
 
+### Ada
+- [Alire](https://alire.ada.dev/) (Similar to Rust’s cargo or OCaml’s opam)
+
 ### C/C++
 - [BiiCode](https://www.biicode.com/) (File-focused, aiming at other platforms like Arduino)
-- [pacm](http://sourcey.com/pacm/) (Only C++, can be embedded or redistibuted)
+- [pacm](http://sourcey.com/pacm/) (Only C++, can be embedded or redistributed)
 
 ### Common Lisp
 
